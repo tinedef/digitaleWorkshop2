@@ -130,7 +130,7 @@ body {
 }
 
 header {
-  background-color: rgb(93, 43, 78);
+  background-color: red;
   background-image: -webkit-linear-gradient(
     right,
     rgb(93, 43, 78),
